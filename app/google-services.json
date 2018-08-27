@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "518740547586",
+    "firebase_url": "https://nogaballfirebaseproject.firebaseio.com",
+    "project_id": "nogaballfirebaseproject",
+    "storage_bucket": "nogaballfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518740547586:android:c785a238774e0887",
+        "android_client_info": {
+          "package_name": "ru.github.pvtitov.myfootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518740547586-a6puhihj5p2eo0pd1031453i4bav771c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.github.pvtitov.myfootball",
+            "certificate_hash": "36b2a3c35ea5a8b77fb9024aeee8c86f9966e3ab"
+          }
+        },
+        {
+          "client_id": "518740547586-pu0l9h6ce3fkgo5o89hsit0qqh7jn1l3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "518740547586-pu0l9h6ce3fkgo5o89hsit0qqh7jn1l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTmxHomi5NMK2-3zCyDKrYjrMTRfOMDf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518740547586-pu0l9h6ce3fkgo5o89hsit0qqh7jn1l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

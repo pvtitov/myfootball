@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Мой футбол</string>
+    <string name="apply">Я буду!</string>
+    <string name="cancel">Я не приду</string>
+    <string name="add_to_calendar">Добавить напоминание в календарь</string>
+    <string name="button_sign_in">Открыть экран аутентификации</string>
+    <string name="apply_bg_description">Фоновое изображение диалогового окна</string>
+    <string name="no_login">Не пройдена аутентификация</string>
+    <string name="login_str">Войти</string>
+    <string name="register_str">Зарегистрироваться</string>
+    <string name="logout_str">Выйти</string>
+    <string name="login_bg_description">Фоновое изображение экрана входа в систему</string>
+    <string name="create_title">Название игры</string>
+    <string name="create_description">Описание игры</string>
+    <string name="create">Объявить игру</string>
+    <string name="attending_myself">Сам участвую в игре</string>
+    <string name="create_time">Время</string>
+    <string name="hint_login">E-mail</string>
+    <string name="hint_password">Пароль</string>
+</resources>
